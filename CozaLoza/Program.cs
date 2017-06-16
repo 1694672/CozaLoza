@@ -10,6 +10,8 @@ namespace CozaLoza
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
+
         }
     }
 }
